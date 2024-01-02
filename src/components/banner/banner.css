@@ -1,0 +1,15 @@
+
+.main_banner {
+    @apply bg-cover bg-[50%] flex items-center h-[800px];
+    display: -webkit-flex !important;
+    -webkit-align-items: center;
+  }
+
+  .slick-next {
+    right: 0 !important;
+}
+.slick-prev {
+  left: 24px;
+  color: black !important;
+
+}
